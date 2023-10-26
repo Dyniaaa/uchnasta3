@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyPage/static/css/main.021f3399.css",
+    "main.js": "/MyPage/static/js/main.fca40fe8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MyPage/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Busko-Zdroj.jpg": "/MyPage/static/media/Busko-Zdroj.5dbace048d923af0e4e4.jpg",
+    "static/media/Sypialania-Photo.webp": "/MyPage/static/media/Sypialania-Photo.eac96db2b05d2cea4c07.webp",
+    "static/media/alley.jpg": "/MyPage/static/media/alley.2d2af887210f801b8f54.jpg",
+    "static/media/Busko.jpg": "/MyPage/static/media/Busko.946bd4888ce71c9af59f.jpg",
+    "static/media/graduationTower.jpg": "/MyPage/static/media/graduationTower.64dcaeb54925d3584f3a.jpg",
+    "static/media/uzdrowisko.jpg": "/MyPage/static/media/uzdrowisko.269dfa8023eecfca7c4f.jpg",
+    "static/media/natureReserve.jpg": "/MyPage/static/media/natureReserve.9fb18bf66f729a48aceb.jpg",
+    "static/media/marconi.jpg": "/MyPage/static/media/marconi.e48a595fca52f5f0ca2c.jpg",
+    "static/media/Apartment-photo.webp": "/MyPage/static/media/Apartment-photo.37855f812aed381c7362.webp",
+    "static/media/LogoBusko.png": "/MyPage/static/media/LogoBusko.4e56969fdab68e8efaac.png",
+    "index.html": "/MyPage/index.html",
+    "main.021f3399.css.map": "/MyPage/static/css/main.021f3399.css.map",
+    "main.fca40fe8.js.map": "/MyPage/static/js/main.fca40fe8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MyPage/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021f3399.css",
+    "static/js/main.fca40fe8.js"
+  ]
+}
